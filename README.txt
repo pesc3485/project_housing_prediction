@@ -5,6 +5,15 @@
 # Database -> City_market_tracker with 5.9 million line items : all files are ignored in this repo to save on median_sale_price
 Repo can be found here: https://www.kaggle.com/datasets/vincentvaseghi/us-cities-housing-market-data
  
+Questions: Can a hot real estate market be determined based off several attributes from a real estate market database?
+Yes - Algorithm has been identified for a composite score
+
+Are there certain regions that are hotter markets regardless of their supply and demand status? Do geographic features play a role in housing market conditions?
+Partially - Unable to determine completely from this analysis, there are a significant number of complex factors that go into this.
+
+Found in core project directory:
+Final Project Writeup - 'project_final_writeup_pesc3485.pdf'
+Final Project Presentation - 'Project_presentation_pesc3485'
 
 Database Notes:
 The dataset has the following columns:
