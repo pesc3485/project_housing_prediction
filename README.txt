@@ -13,7 +13,7 @@ Partially - Unable to determine completely from this analysis, there are a signi
 
 Found in core project directory:
 Final Project Writeup - 'project_final_writeup_pesc3485.pdf'
-Final Project Presentation - 'Project_presentation_pesc3485'
+Final Project Presentation - 'https://youtu.be/WhHHcE-6ob8'
 
 Database Notes:
 The dataset has the following columns:
